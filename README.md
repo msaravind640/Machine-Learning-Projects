@@ -63,7 +63,7 @@ Users can input passenger details and get real-time predictions.
 ![Model Comparison](images/modelvsmetrics.png)
 
 ###  Streamlit App Preview
-![Streamlit App](images/streamlit_app.png)
+![Streamlit App](images/streamlit_preview.png)
 
 ---
 
