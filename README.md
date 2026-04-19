@@ -57,10 +57,10 @@ Users can input passenger details and get real-time predictions.
 ##  Visualizations
 
 ###  Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/rf_conf_matrix.png)
 
 ###  Model Comparison
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/modelvsmetrics.png)
 
 ###  Streamlit App Preview
 ![Streamlit App](images/streamlit_app.png)
